@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/FreelancerTrack.Api/FreelancerTrack.Api.csproj" />
+    <Project Path="src/FreelancerTrack.Application/FreelancerTrack.Application.csproj" />
+    <Project Path="src/FreelancerTrack.Domain/FreelancerTrack.Domain.csproj" />
+    <Project Path="src/FreelancerTrack.Infrastructure/FreelancerTrack.Infrastructure.csproj" />
+  </Folder>
+</Solution>
