@@ -1,5 +1,6 @@
 # .NET Freelancer Finance & Invoice Management Platform
 
+[![CI](https://github.com/abdussatarkhan/dotnet-freelancer-finance-tracker/actions/workflows/ci.yml/badge.svg)](https://github.com/abdussatarkhan/dotnet-freelancer-finance-tracker/actions)
 [![.NET](https://img.shields.io/badge/.NET_8-ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/) [![C#](https://img.shields.io/badge/C%23-Clean_Architecture-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-EF_Core-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Author](https://img.shields.io/badge/Author-Abdussatar-E50914?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdussatarkhan)
 
@@ -35,6 +36,16 @@ graph TD
 git clone https://github.com/abdussatarkhan/dotnet-freelancer-finance-tracker.git
 cd dotnet-freelancer-finance-tracker
 ```
+
+---
+
+## 🗺️ Roadmap & Upcoming Features
+
+- [x] ASP.NET Core Web API with CQRS MediatR architecture
+- [x] PostgreSQL database and recurring billing background workers
+- [ ] Multi-currency exchange rate live API sync
+- [ ] Automated PDF invoice email delivery
+- [ ] Quarterly tax liability forecasting module
 
 ---
 
